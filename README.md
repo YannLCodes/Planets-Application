@@ -1,8 +1,8 @@
 # Planets-Application
 A fun web app to learn about the solar system
 
-To quickly get up and running with a local instance: 
-<strong>PREREQUISITES:</strong> Node, NPM and .NET 6
+To quickly get up and running with a local instance:  
+<br/><strong>PREREQUISITES:</strong> Node, NPM and .NET 6
 
 ## API: 
 navigate to the directory 'PlanetAPI' and run the command ``dotnet run PlanetApi.sln``
