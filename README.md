@@ -5,6 +5,7 @@ To quickly get up and running with a local instance:
 <strong>PREREQUISITES:</strong> Node, NPM and .NET 6
 
 ## API: 
+# If you are running the app for the first time you will need to seed your local database: ``dotnet ef database update``
 navigate to the directory 'PlanetAPI' and run the command ``dotnet run PlanetApi.sln``
 
 ## UI: 
